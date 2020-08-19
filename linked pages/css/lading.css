@@ -1,0 +1,54 @@
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Karla', sans-serif;
+    background: url(bgi1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+        background-size: cover;
+      }
+
+      h1 {margin: 1rem;
+        padding: 1rem;
+          font-size: 3rem;
+          color:rgb(200, 15, 15);
+      }
+h2{
+    color: gray
+}
+
+      button-xl{
+     padding: 1rem 2rem;
+      }
+      .btn { 
+          font-weight: 700;
+        border-radius: 300px;
+    text-transform: uppercase; }
+    .btn {
+        background-color: rgb(0, 28, 104);
+    }
+.btn {
+    color: rgb(192, 29, 29)   ;
+}
+hr { color: white;
+border-width: 9px;
+max-width: 65px; 
+}
+IMG {
+    height: 16rem;
+    width: 15rem; 
+border-radius: 1rem;
+float:center
+;}
+
+hr { 
+    color: red;
+}
+h4 {padding: 23px;
+    text-align: center;
+    color:rgb(117, 117, 160);
+    text-size-adjust: 12px;
+}
